@@ -1,0 +1,4 @@
+TS001, TRA_SUA, 300.0, 250, Available
+TS002, TRA_DAU, 2000.0, 500, Not_Available
+TS004, TRA_SEN, 2000.0, 400, Not_Available
+TS005, TRA_OLONG, 1000.0, 300, Available
